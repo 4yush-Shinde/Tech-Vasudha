@@ -213,8 +213,9 @@ img {
 	font-weight: normal;
 }
 /** main **/
-.main {
+.main li {
 	padding: 0 10px;
+	color: #fff;
 }
 /** sidebar **/
 #sidebar {
@@ -253,7 +254,7 @@ img {
 }
 /** list **/
 .list {
-	list-style: none;
+	/*list-style: none;*/
 	margin: 0;
 	padding: 0;
 }
